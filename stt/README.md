@@ -1,4 +1,4 @@
-# STT (Sound To Text) Tool
+# STT (Speech To Text) / Push To Talk Tool
 
 A lightweight Python tool that listens to your microphone while a hotkey is pressed, transcribes the speech using OpenAI's Whisper model, and types the result directly into your active window.
 
